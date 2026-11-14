@@ -1,0 +1,17 @@
+
+{
+  "mcpServers": {
+    "concord": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "C:\\Users\\noumo\\AppData\\Roaming\\npm\\concord-mcp.cmd"
+      ],
+      "env": {
+        "CONCORD_REPO_ROOT": "D:\\Documents\\TaskFlow-API",
+        "CONCORD_AGENT_KIND": "antigravity",
+        "CONCORD_TELEMETRY_DISABLED": "1"
+      }
+    }
+  }
+}

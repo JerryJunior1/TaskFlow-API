@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "concord": {
+      "command": "concord-mcp",
+      "env": {
+        "CONCORD_REPO_ROOT": "D:\\Documents\\TaskFlow-API",
+        "CONCORD_AGENT_KIND": "cursor"
+      }
+    }
+  }
+}
